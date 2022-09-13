@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Drgs">
+    <output-path>$PROJECT_DIR$/../../../../Tomcat 8.5/webapps/Drgs</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DrgsNew/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DrgsNew" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
